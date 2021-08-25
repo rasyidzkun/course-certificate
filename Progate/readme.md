@@ -9,3 +9,8 @@ Pada tanggal tersebut saya mendapatkan dua buah sertifikat karena menyelesaikan 
 Pada tanggal tersebut saya mendapatkan sebuah sertifikat karena telah menyelesaikan kelas **[HTML & CSS](https://progate.com/courses/html)**<br><br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)<br>
+
+# 25 Agustus 2021
+
+Pada tanggal tersebut saya mendapatkan sebuah sertifikat karena telah menyelesaikan kelas **[JavaScript](https://progate.com/courses/es6)** <br><br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
