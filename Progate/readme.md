@@ -14,3 +14,8 @@ Pada tanggal tersebut saya mendapatkan sebuah sertifikat karena telah menyelesai
 
 Pada tanggal tersebut saya mendapatkan sebuah sertifikat karena telah menyelesaikan kelas **[JavaScript](https://progate.com/courses/es6)** <br><br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+# 26 Agustus 2021
+
+Pada tanggal tersebut saya mendapatkan sebuah sertifikat karena telah menyelesaikan kelas **[SASS](https://progate.com/courses/sass)** <br><br>
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
