@@ -19,3 +19,8 @@ Pada tanggal tersebut saya mendapatkan sebuah sertifikat karena telah menyelesai
 
 Pada tanggal tersebut saya mendapatkan sebuah sertifikat karena telah menyelesaikan kelas **[SASS](https://progate.com/courses/sass)** <br><br>
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+# 1 September 2021
+
+Pada tanggal tersebut saya mendapatkan sebuah sertifikat karena telah menyelesaikan kelas **[SQL](https://progate.com/courses/sql)**<br><br>
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
